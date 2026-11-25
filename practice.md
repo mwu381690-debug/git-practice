@@ -1,6 +1,6 @@
 ﻿# Git Practice
 
-Learning goal: practice Git branches and pull requests.
+Learning goal: practice resolving merge conflicts with Git.
 
 ## Collaboration rules
 - Make changes on a separate branch.
